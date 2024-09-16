@@ -1,1 +1,2 @@
-![Screenshot (51)](https://github.com/user-attachments/assets/4a752634-e9ca-4606-ae05-f599bddea96d)
+
+![problem1](https://github.com/user-attachments/assets/7856d4d8-edf2-40b4-b04c-1407d7b0a92f)
