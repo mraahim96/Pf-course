@@ -8,3 +8,5 @@
 ~ I am currently learning basics of programming.
 
 ~This is a repository about my PF assignments.
+
+~ puray number dedega pls🥺
