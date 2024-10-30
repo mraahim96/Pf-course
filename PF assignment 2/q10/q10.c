@@ -1,3 +1,5 @@
+//M.Raahim //24k-0543 //q10
+
 #include<stdio.h>
 
 int main(){
