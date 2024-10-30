@@ -63,7 +63,6 @@ int hist_v()
 }
 int main()
 {
-	int count, values[count];
 	tvalues();
 	hist_h();
 	hist_v();
