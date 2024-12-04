@@ -1,5 +1,5 @@
 // M.Raahim 24k-0543 
-// Assignment 3 q1
+// Assignment 3 q5
 
 #include <stdio.h>
 #include <stdlib.h>
