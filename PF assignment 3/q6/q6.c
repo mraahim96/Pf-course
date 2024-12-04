@@ -1,3 +1,6 @@
+// M.Raahim 24k-0543 
+// Assignment 3 q6
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
