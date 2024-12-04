@@ -1,3 +1,6 @@
+// M.Raahim 24k-0543 
+// Assignment 3 q2
+
 #include <stdio.h>
 
 struct Player{
